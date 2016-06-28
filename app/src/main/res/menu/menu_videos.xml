@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+   <!-- <item android:id="@+id/vido_afrodita" android:title="@string/video_afrodita"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/vido_sexychannel" android:title="@string/video_sexychannel"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/vido_hotlatino" android:title="@string/video_hotlatino"
+        android:orderInCategory="100" app:showAsAction="never" />-->
+    <item android:id="@+id/video_edusat" android:title="@string/Caso_de_exito"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/inicio" android:title="@string/inicio"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

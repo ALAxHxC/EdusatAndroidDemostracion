@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Edusat</string>
+    <string name="videos_trailers">Trailer</string>
+    <string name="videos">Videos</string>
+    <string name="video_afrodita">Afrodita</string>
+    <string name="video_sexychannel">Sexy channel</string>
+    <string name="video_hotlatino">Hot Latino</string>
+    <string name="inicio">Inicio</string>
+    <string name="canales">Demostracion </string>
+    <string name="Caso_de_exito">Caso de exito</string>
+    <string name="title_activity_familia_trailer">FamiliaTrailer</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="version">1.11</string>
+    <string name="url">http://edusat.co/webservices/edu.apk</string>
+    <string name="ruta_local">/sdcard/downloadedfile.apk</string>
+    <string name="server">http://edu.co</string>
+    <string name="donwload_version">Descargando nueva versión , espere.. </string>
+    <string name="iniciando_download">Iniciando Descarga</string>
+    <string name="Descargo">Descarga Completa , iniciando actualización</string>
+
+</resources>
